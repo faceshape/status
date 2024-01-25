@@ -1,0 +1,13 @@
+{
+    "success": true,
+    "webMessage": [
+        {
+            "surface": "all",
+            "message": "Message shown to user on the web app"
+        },
+        {
+            "surface": "studio",
+            "message": "Message shown to user on the studio"
+        }
+    ]
+}

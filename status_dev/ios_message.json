@@ -1,0 +1,13 @@
+{
+    "success": true,
+    "iosMessage": [
+        {
+            "build": "1",
+            "message": "TestMessage"
+        },
+        {
+            "build": "2",
+            "message": "TestMessage2"
+        }
+    ]
+}
