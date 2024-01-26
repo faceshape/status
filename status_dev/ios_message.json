@@ -2,11 +2,15 @@
     "success": true,
     "iosMessage": [
         {
-            "build": "1",
+            "build": [
+                "1"
+            ],
             "message": "TestMessage"
         },
         {
-            "build": "2",
+            "build": [
+                "2"
+            ],
             "message": "TestMessage2"
         }
     ]
